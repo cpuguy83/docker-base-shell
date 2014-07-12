@@ -1,0 +1,2 @@
+deb http://mirror.cogentco.com/debian/ testing main contrib
+deb http://security.debian.org jessie/updates main
